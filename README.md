@@ -1,1 +1,1 @@
-Para sa update Ng app
+Para sa Admin Message
