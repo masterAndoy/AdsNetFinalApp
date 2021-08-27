@@ -1,1 +1,1 @@
-Para sa Admin Message
+Admin Msg
