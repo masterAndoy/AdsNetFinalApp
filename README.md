@@ -1,4 +1,4 @@
 {
-"SendMessage":15,
+"SendMessage":16,
 "MyMessage":
-" 💌💌💌 Kamusta Guys? Kapag No Browse or Hirap sa Claim ng Ads. medyo tagalan lang ng Kunti Ang pag Airplane Mode at Change Server lang. Tapos mag change Server. ADDED US SERVER AS REQUESTED.. 💌💌💌"}
+" 💌💌💌 OK pa Ba Ang GTM NO LOAD GUYS? May nakapag Sabi sa akin. Mas maganda daw Kung Meron promo. Walang problema sa no browsing at Wala naMan bawas ang promo mo.. 💌💌💌"}
