@@ -1,4 +1,4 @@
 {
-"SendMessage":18,
+"SendMessage":19,
 "MyMessage":
-" 💌💌💌 Sa mga No Browse, Mag change APN kayo. Pwede nyo gamitin Ang Smart na APN. Or gawa kayo APN. Basta kapag nyo BROWSE. Change APN LANG! 💌💌💌"}
+" 💌💌💌 Pa UPDATE ng FakeHUB SOCKS at pa try Ng GTM NOLOAD BETA at piliin Ang INDIA1-2! 💌💌💌"}
