@@ -1,4 +1,4 @@
 {
-"SendMessage":1,
+"SendMessage":2,
 "MyMessage":
-"Salamat sa pagtangkilik sa mga app Ng FakeHub. Sana tumagal pa itong No Load para madami pa Tayo matutulungan. Wag lang abuso sa pag downlaod. Tamang FB, VIDEOCALL, at TikTok daw😁 sapat na. Tapon sim na kapag nawala Ang network/signal Ng sim Nyo."}
+"MATUTO PO TAYO MAG UPDATE NG APP PARA D NA IIYAK KAPAG NAIWANAN NA SA VERSION. SPREADING SA IBANG GROUP AY MALAKING TULONG NA PO SA AKIN. SALAMAT TROPA!!!."}
