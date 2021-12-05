@@ -1,4 +1,4 @@
 {
-"SendMessage":6,
+"SendMessage":7,
 "MyMessage":
-"SA LAHAT NG GUMAGAMIT NG FAKEHUB XXX, MAARING E DOWNLOAD ITO👉 https://ppd.ce7ven.com/386 ITO NA ANG MAGIGING OFFICIAL APP. ANG FAKEHUB XXX AY MA DEDESOLVE NA MAMAYA BEFORE LUNCH. TNX PO"}
+" All Servers Fixed. For Cambodia Users, please choose Cambodia Servers and Payloads Only"}
