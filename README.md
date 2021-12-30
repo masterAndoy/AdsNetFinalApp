@@ -1,4 +1,4 @@
 {
-"SendMessage":7,
+"SendMessage":8,
 "MyMessage":
-" All Servers Fixed. For Cambodia Users, please choose Cambodia Servers and Payloads Only"}
+" Na banned Ang FB ko guys pati Ang group na block. sa 31 pa Ng hapon ma unban. Stay tuned nlng. Bawi ako sa January. "}
